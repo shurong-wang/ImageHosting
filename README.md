@@ -1,4 +1,4 @@
-# Image-Hosting
+# ImageHosting
 
 Only a few pictures are stored in this repository for reference by `README.md`.
 
